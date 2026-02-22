@@ -1,7 +1,7 @@
 # Getting Started
 
 [[toc]]
-
+name rulz×zarz
 Pterodactyl Panel is designed to run on your own web server. You will need to have root access to your server in order to run and use this panel.
 
 You are expected to understand how to read documentation to use this Panel. We have spent many hours detailing how to install or upgrade our
